@@ -1,4 +1,4 @@
-# coderegion
+# Vue-CodeRegion
 
 > A Vue.js project
 
